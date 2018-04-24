@@ -1,0 +1,18 @@
+Obtenha o nome de usuário padrão da AMI usada para executar a instância
+
+    Para a AMI do Amazon Linux, o nome de usuário é ec2-user.
+
+    Para um AMI do CentOS, o nome de usuário é centos.
+
+    Em uma AMI do Debian, o nome de usuário é admin ou root.
+
+    Para a AMI do Fedora, o nome de usuário é ec2-user.
+
+    Para a AMI do RHEL, o nome de usuário é ec2-user ou root.
+
+    Para a AMI do SUSE, o nome de usuário é ec2-user ou root.
+
+    Para AMI do Ubuntu, o nome de usuário é ubuntu ou root.
+
+    Caso contrário, se ec2-user e root não funcionarem, verifique com o provedor de AMI.
+
